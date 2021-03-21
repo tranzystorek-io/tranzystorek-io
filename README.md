@@ -8,7 +8,7 @@ Hi, I'm Marcin. I do stuff mostly in:
 - Python
 - C++
 
-I have also been learning some [Deno](https://deno.land/) recently, check it out!
+I have also found [Deno](https://deno.land/) interesting, check it out!
 
 You can see my portfolio [here](https://tranzystorek-io.github.io/).
 
