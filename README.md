@@ -7,7 +7,7 @@ Hi, I'm Marcin. I do stuff mostly in:
 - :crab: Rust
 - :snake: Python
 
-**&lambda;** I enjoy learning functional languages and the functional paradigm in general.
+:alembic: I enjoy learning functional languages and the functional paradigm in general.
 My personal favorites are Haskell and F#.
 
 :sauropod: I have also found [Deno](https://deno.land/) interesting, check it out!
