@@ -4,13 +4,15 @@
 
 Hi, I'm Marcin. I do stuff mostly in:
 
-- Rust
-- Python
-- C++
+- :crab: Rust
+- :snake: Python
 
-I have also found [Deno](https://deno.land/) interesting, check it out!
+**&lambda;** I enjoy learning functional languages and the functional paradigm in general.
+My personal favorites are Haskell and F#.
 
-You can see my portfolio [here](https://tranzystorek-io.github.io/).
+:sauropod: I have also found [Deno](https://deno.land/) interesting, check it out!
+
+:office: You can see my portfolio [here](https://tranzystorek-io.github.io/).
 
 ## Stats
 
