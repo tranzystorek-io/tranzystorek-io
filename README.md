@@ -2,10 +2,11 @@
 
 ## Description
 
-Hi, I'm Marcin. I do stuff mostly in:
+Hi, I'm Marcin. I do stuff in :crab: Rust.
+My personal interests lie in CLI utilities and the software development cycle in general.
 
-- :crab: Rust
-- :snake: Python
+:wrench: I'm familiar with Python and C++,
+but these mostly come up as work necessities or one-off thingies.
 
 :alembic: I enjoy learning functional languages and the functional paradigm in general.
 My personal favorites are Haskell and F#.
