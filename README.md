@@ -2,7 +2,7 @@
 
 ## Description
 
-Hi, I'm Marcin. I do stuff in :crab: Rust.
+Hi, I'm Marcin. I do stuff in Rust :crab:.
 My personal interests lie in CLI utilities and the software development cycle in general.
 
 :wrench: I'm familiar with Python and C++,
