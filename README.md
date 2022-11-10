@@ -11,6 +11,8 @@ but these mostly come up as work necessities or one-off thingies.
 :alembic: I enjoy learning functional languages and the functional paradigm in general.
 My personal favorites are Haskell and F#.
 
+:package: I maintain a [handful](https://repology.org/maintainer/tranzystorek.io%40protonmail.com) of packages over on [Void Linux](https://voidlinux.org/).
+
 :sauropod: I have also found [Deno](https://deno.land/) interesting, check it out!
 
 :office: You can see my portfolio [here](https://tranzystorek-io.github.io/).
